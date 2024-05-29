@@ -1,0 +1,1 @@
+A utility that takes input of a directory of CCDAs, converts to json, and loads it into a postgres table in the format (source_file(file name) and json_result into a jsonb column)
